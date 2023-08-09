@@ -17,6 +17,7 @@ Settings -> Update & Security -> For Developers -> Developer Mode
 - Run file
 Run.cmd
 - Enter instance number
+
 ~~If 0 - clean install.~~
 
 If 1, 2, 3, etc. - installation with change AppxManifest.
