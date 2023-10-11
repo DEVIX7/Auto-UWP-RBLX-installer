@@ -24,7 +24,7 @@ If 1, 2, 3, etc. - installation with change AppxManifest.
 - Wait for msixbundle download process ,and AppxPackage registration via powershell
 ## Feedback
 
-- https://discord.gg/HZZ4ecTMgv
+- https://discord.gg/bDp3Yn3vpC
 
 ## Hash Sum
 ### SHA256
